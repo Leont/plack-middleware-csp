@@ -1,0 +1,11 @@
+Build.PL
+Changes
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+META.json
+META.yml
+README
+cpanfile
+lib/Plack/Middleware/CSP.pm
+t/basic.t
